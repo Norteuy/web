@@ -1,0 +1,19 @@
+
+body{
+    background: url("pagebg.jpg") no-repeat;
+    background-size: 100% ;
+}
+
+
+header{
+    margin: auto;
+    background: url("header.jpg");
+    width: 930px;
+    height: 406px;
+}
+footer{
+    margin: auto;
+    background-image: url("footer.jpg");
+    width: 930px;
+    height: 176px;
+}
